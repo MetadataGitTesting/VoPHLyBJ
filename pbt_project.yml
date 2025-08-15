@@ -1,0 +1,58 @@
+name: jarrett.feest
+description: ability
+version: 0.77.956
+author: null
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: jarrettfeest
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-08-15 20:29:27'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-08-15 20:29:27'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-08-15T20:29:27.883377Z'
+  name: plibMaven
+  version: 8.13.0-SNAPSHOT
+  id: '1134393168'
+  createdAt: '2025-08-15T20:29:27.883377Z'
+  type: plibMaven
+projectDependencies:
+  '141':
+    projectUID: 141
+    projectName: cristopher.beer
+    repositoryPath: gitUri=http://gitserver:3000/dev_iGq1ov9X_team_266/dev_iGq1ov9X_project_141.git&subPath=
+    version: cristopher.beer/0.29.481
+    isDefault: false
+    author: null
+    createdAt: '2025-08-15 20:29:25'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
